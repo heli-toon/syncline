@@ -1,0 +1,6 @@
+{
+  "name": "Offline P2P Share",
+  "description": "A 100% offline, peer-to-peer file and text sharing PWA using manual WebRTC signaling and QR codes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

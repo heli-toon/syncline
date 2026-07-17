@@ -1,0 +1,22 @@
+{
+  "short_name": "OfflineShare",
+  "name": "Offline P2P Share",
+  "description": "100% offline, peer-to-peer file and text sharing over local Wi-Fi without internet.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d0e12",
+  "theme_color": "#0d0e12",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
